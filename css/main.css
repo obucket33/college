@@ -1,0 +1,90 @@
+*{
+	box-sizing: border-box;
+	
+}
+body{
+	background: url("../img/ups.jpg") no-repeat center center white;
+	background-size: 100%;
+}
+
+header {
+	text-align: center;
+	margin: 2% -15px 5% -15px;
+	padding: 2%;
+	border: solid;
+	border-color: darkgrey; 
+	background: url("../img/logo-2.jpg") no-repeat top left white;
+	background-size: 20% auto;
+	font-family: 'Oswald', sans-serif;
+}
+
+header a {
+	color: black;
+}
+
+header a:hover {
+	color: blue;
+}
+
+div.a {
+	border: solid;
+	border-color: darkgrey;
+	background-color: white;
+}
+div.b {
+	border: solid;
+	border-color: darkgrey;
+	background-color: white;]]]
+}
+.box a {
+	color: black;
+}
+.box a:hover {
+	color: blue;
+}
+
+div.text1{
+	text-align: center;
+	margin: 0 5% 0% 0%; 
+	padding: 2%;
+	font-family: 'Oswald', sans-serif;
+}
+
+div.text1 p {
+	text-align: left;
+	font-family: 'Merriweather', serif;
+	
+}
+
+div.text2{
+	text-align: center;
+	margin: 5% 5% 5% 0%;
+	padding: 2%; 
+	border: solid;
+	border-color: darkgrey; 
+	background-color: white;
+	font-family: 'Oswald', sans-serif;
+}
+
+div.text2 p {
+	text-align: left;
+	font-family: 'Merriweather', serif;
+	
+}
+
+div.text15 {
+	text-align: center;
+	margin: 5% 5% 2% 0%; 
+	padding: 2%;
+	border: solid;
+	border-color: darkgrey; 
+	background-color: white;
+	font-family: 'Oswald', sans-serif;
+}
+div.text15 p {
+	text-align: left;
+	font-family: 'Merriweather', serif;
+}
+.background  img {
+	width: 100% auto;
+}
